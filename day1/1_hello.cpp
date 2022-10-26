@@ -4,5 +4,6 @@ int main()
 {
 
     cout << "Hello Nitesh ! Welcome to the the Programming World Again...";
+    cout << "Hello Nitesh ! Welcome to the the Programming World Again...";
     return 0;
 }
